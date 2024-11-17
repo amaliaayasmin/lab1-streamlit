@@ -1,4 +1,4 @@
-network
+networkx
 requests
 matplotlib
 pandas
